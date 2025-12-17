@@ -1,5 +1,11 @@
 # OpenSyntaxHQ
 
+<div align="center">
+
+[![Website](https://img.shields.io/badge/🌐_Website-opensyntax.io-blue?style=flat-square)](https://opensyntaxhq.github.io/OpenSyntaxHQ/)
+
+</div>
+
 OpenSyntaxHQ is an engineer-first open-source organization focused on building practical, well-documented tools and reference implementations that make software systems easier to design, ship, and maintain. We value clarity, composability, and pragmatic engineering — not hype. Contributors are welcome from everywhere; we build together, review together, and keep the project usable for real teams.
 
 ## What we build

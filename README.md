@@ -1,5 +1,11 @@
 👋 Welcome to **OpenSyntaxHQ's** community health files repository! 
 
+<div align="center">
+
+[![Website](https://img.shields.io/badge/🌐_Website-opensyntax.io-blue?style=flat-square)](https://opensyntaxhq.github.io/OpenSyntaxHQ/)
+
+</div>
+
 This repository contains organization-wide templates and guidelines that apply to all repositories under OpenSyntaxHQ. 
 
 ## What's Inside
